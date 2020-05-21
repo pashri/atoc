@@ -16,6 +16,8 @@ The methods are:
 
 Example usage:
 ```python
+import atoc
+
 fares_folder = '~/RJFAF464'
 times_folder = '~/ttis641'
 terminals_filepath = '~/ltm_v1.4_200307.xml'
