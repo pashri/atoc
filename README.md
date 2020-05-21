@@ -2,7 +2,7 @@
 
 This parses ATOC data data from the Rail Delivery Group at [data.atoc.org](data.atoc.org) in an easy-to-use format. Be sure to read through the documentation in order to understand what the data represent.
 
-This module is a Python version of [Michael Czolko's ATOC Feed Parser](https://github.com/mCzolko/atoc-feed-parse), originally written in PHP. It works with the Timetable feed and the Fares feed. A new parser has been added for the London Terminals Feed.
+This module is a Python version of [Michael Czolko's ATOC Feed Parser](https://github.com/mCzolko/atoc-feed-parser), originally written in PHP. It works with the Timetable feed and the Fares feed. A new parser has been added for the London Terminals Feed.
 
 The methods are:
 - `atoc.parse_file()` - Parses Timetable or Fares data, with a passed-in file path.
